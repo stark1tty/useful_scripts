@@ -15,7 +15,7 @@ A small repo for sharing useful scripts I've mocked up. :)
 #image_classification #ai #plants #ecology #plantnet
 
 #### Location
-Plants/Identify-Plant-Images-from-Directory.ipynb
+Plants/Identify-Plant-Images-from-Directory.ipnyb
 
 #### Description
 This script processes a directory of image files using the PlantNet API for plant identification. It saves the results to a CSV file with the specified format. The API can be found free at: https://plantnet.org/
