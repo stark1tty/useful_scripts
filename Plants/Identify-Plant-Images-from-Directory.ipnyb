@@ -31,7 +31,7 @@ folder_path = "YOUR_FOLDER_PATH_HERE"
 ## Note: Include the desired path ("C:\\PATH\\TO\\FOLDER.\\TABLE.csv") or the csv will save in the same folder as the script or whatever default location. 
 csv_file = "YOUR_CSV_FILE_NAME_HERE.csv"
 
-#######################################
+#####################################
 
 # API endpoint for PlantNet identification
 api_endpoint = f"https://my-api.plantnet.org/v2/identify/all?api-key={API_KEY}"
