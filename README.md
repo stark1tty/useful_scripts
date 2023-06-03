@@ -17,9 +17,9 @@ A small repo for sharing useful scripts I've mocked up. :)
 #image_classification #ai #plants #ecology #plantnet
 
 #### Language
-- Python 
+- Python (3.10)
 
-##### Requirements
+##### Requirements/Packages
 - os
 - csv
 - requests
