@@ -5,7 +5,7 @@ A small repo for sharing useful scripts I've mocked up. :)
 
 ## Table of Contents
 - [Plants](#Plants)
-    [Plant Identification Script](#Plant Identification Script)
+    - [Plant Identification Script](#Plant Identification Script)
 
 ---
 
