@@ -14,7 +14,7 @@ A small repo for sharing useful scripts I've mocked up. :)
 
 ### Plant Identification Script 
 #### Keywords
-#image_classification #ai #plants #ecology #plantnet
+#image_classification #ai #plants #ecology #plantnet #python
 
 #### Language
 - Python (3.10)
