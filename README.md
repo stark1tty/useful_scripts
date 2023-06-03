@@ -30,7 +30,7 @@ pip install os csv requests time
 ```
 
 #### Location
-Plants/Identify-Plant-Images-from-Directory.ipnyb
+- [Plants/Identify-Plant-Images-from-Directory.ipnyb](https://github.com/stark1tty/useful_scripts/blob/main/Plants/Identify-Plant-Images-from-Directory.ipnyb)
 
 #### Description
 This script processes a directory of image files using the PlantNet API for plant identification. It saves the results to a CSV file with the specified format. The API can be found free at: https://plantnet.org/
