@@ -15,6 +15,7 @@ import time
 API_KEY = "YOUR_API_KEY_HERE"
 
 # Set the folder path containing the image files
+## Format the path as follows:  "C:\\PATH\\TO\\FOLDER"
 folder_path = "YOUR_FOLDER_PATH_HERE"
 
 # Set the name of the CSV file to store the results
