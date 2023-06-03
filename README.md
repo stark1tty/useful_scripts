@@ -4,11 +4,12 @@ A small repo for sharing useful scripts I've mocked up. :)
 ---
 
 # Table of Contents
-- [Plants](#Plants 🌿)
+- [Plants](#Plants)
 
 ---
 
-## Plants 🌿
+## Plants
+🌿🌿🌿
 
 ### Plant Identification Script 
 #### Keywords
