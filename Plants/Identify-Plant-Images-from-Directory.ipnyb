@@ -1,6 +1,6 @@
 # Plant Identification Script
 #
-# Description: This script processes a directory of image files using the PlantNet API for plant identification.
+# Description: This script processes a directory of image files ('.jpeg', '.jpg', '.png', '.bmp') using the PlantNet API for plant identification.
 # It saves the results to a CSV file with the specified format.
 #
 # Instructions: 1. Set your API key, folder path, and CSV file name in the variables below.
