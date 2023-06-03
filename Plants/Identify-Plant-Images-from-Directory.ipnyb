@@ -3,6 +3,8 @@
 # It saves the results to a CSV file with the specified format.
 # Instructions: 1. Set your API key, folder path, and CSV file name in the variables below.
 #               2. Run the script to process the images and save the results.
+# The API can be found free at: https://plantnet.org/
+# Script is modified from an example on their github: https://github.com/plantnet
 
 import os
 import csv
