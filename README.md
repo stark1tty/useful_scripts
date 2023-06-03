@@ -22,3 +22,6 @@ Plants/Identify-Plant-Images-from-Directory.ipnyb
 This script processes a directory of image files using the PlantNet API for plant identification. It saves the results to a CSV file with the specified format. The API can be found free at: https://plantnet.org/
 
 Script is modified from an example on their github: https://github.com/plantnet
+
+##### Tips
+- I use an extension called Kutools to insert images in Excel. :)
