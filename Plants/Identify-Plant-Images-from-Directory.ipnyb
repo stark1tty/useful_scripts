@@ -14,12 +14,15 @@
 #
 # For more tips and info, see readme.md at https://github.com/stark1tty/useful_scripts
 
+# Setup 
+
 import os
 import csv
 import requests
 import time
 
 ##### EDIT THESE WITH YOUR INFO #####
+
 # Set your API key
 API_KEY = "YOUR_API_KEY_HERE"
 
