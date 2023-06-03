@@ -26,4 +26,6 @@ Script is modified from an example on their github: https://github.com/plantnet
 
 ##### Tips
 - I use an extension called Kutools to insert images in Excel. :)
+- https://plugins.qgis.org/plugins/ImportPhotos/ for locational information on images.
+- https://exiftool.org/ for more camera data and locational information.
 - Filter results with confidence intervals of >0.1 to get rid of the bulk of bad matches.
