@@ -25,3 +25,4 @@ Script is modified from an example on their github: https://github.com/plantnet
 
 ##### Tips
 - I use an extension called Kutools to insert images in Excel. :)
+- Filter results with confidence intervals of >0.1 to get rid of the bulk of bad matches.
