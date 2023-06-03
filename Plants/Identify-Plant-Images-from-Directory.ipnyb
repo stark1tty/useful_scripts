@@ -11,21 +11,27 @@
 # Script is modified from an example on their github: https://github.com/plantnet
 #
 # Note: There is a delay of 3 second between each image, so be patient! :)
+#
+# For more tips and info, see readme.md at https://github.com/stark1tty/useful_scripts
 
 import os
 import csv
 import requests
 import time
 
+##### EDIT THESE WITH YOUR INFO #####
 # Set your API key
 API_KEY = "YOUR_API_KEY_HERE"
 
 # Set the folder path containing the image files
-## Format the path as follows:  "C:\\PATH\\TO\\FOLDER"
+## Format the path as follows: "C:\\PATH\\TO\\FOLDER"
 folder_path = "YOUR_FOLDER_PATH_HERE"
 
 # Set the name of the CSV file to store the results
+## Note: Include the desired path ("C:\\PATH\\TO\\FOLDER.\\TABLE.csv") or the csv will save in the same folder as the script or whatever default location. 
 csv_file = "YOUR_CSV_FILE_NAME_HERE.csv"
+
+#######################################
 
 # API endpoint for PlantNet identification
 api_endpoint = f"https://my-api.plantnet.org/v2/identify/all?api-key={API_KEY}"
@@ -69,3 +75,5 @@ with open(csv_file, 'w', newline='', encoding='utf-8') as f:
             writer.writerow([image_path, scientific_name, score, common_names])
 
 print(f"Results saved to {csv_file}")
+
+# Source: https://github.com/stark1tty/useful_scripts
