@@ -16,6 +16,19 @@ A small repo for sharing useful scripts I've mocked up. :)
 #### Keywords
 #image_classification #ai #plants #ecology #plantnet
 
+#### Language
+- Python 
+
+##### Requirements
+- os
+- csv
+- requests
+- time
+
+```python
+pip install os csv requests time
+```
+
 #### Location
 Plants/Identify-Plant-Images-from-Directory.ipnyb
 
