@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Fri, 30 Jun 2023 20:16:58</dateCreated>
+  </head>
+  <body>
+    <outline text="Blogs">
+      <outline text="A Collection of Unmitigated Pedantry" type="rss" xmlUrl="https://acoup.blog/feed/" htmlUrl="https://acoup.blog/" description="A look at history and popular culture"/>
+      <outline text="Absolutely Maybe" type="rss" xmlUrl="https://absolutelymaybe.plos.org/feed/" htmlUrl="https://absolutelymaybe.plos.org/" description="Evidence and uncertainties about medicine, science culture, and life."/>
+      <outline text="Absolutely Maybe" type="rss" xmlUrl="https://absolutelymaybe.plos.org/feed" htmlUrl="https://absolutelymaybe.plos.org/" description="Evidence and uncertainties about medicine, science culture, and life."/>
+      <outline text="All Models Are Wrong" type="rss" xmlUrl="https://allmodels.plos.org/feed/" htmlUrl="https://allmodels.plos.org/" description="All models are wrong, but some are useful"/>
+      <outline text="All Models Are Wrong" type="rss" xmlUrl="https://allmodels.plos.org/feed" htmlUrl="https://allmodels.plos.org/" description="All models are wrong, but some are useful"/>
+      <outline text="Blog Feed" type="rss" xmlUrl="https://americanhistory.si.edu/blog/feed" htmlUrl="https://americanhistory.si.edu/blog" description=""/>
+      <outline text="ECR Community" type="rss" xmlUrl="https://ecrcommunity.plos.org/feed/" htmlUrl="https://ecrcommunity.plos.org/" description="The PLOS Early Career Researcher Community is a forum for the next generation of scientists and science writers."/>
+      <outline text="Electric Archaeology" type="rss" xmlUrl="https://electricarchaeology.ca/feed/" htmlUrl="https://electricarchaeology.ca/" description="it's not just digital, it's electric!"/>
+      <outline text="HistoryNet" type="rss" xmlUrl="https://www.historynet.com/feed/?r" htmlUrl="https://www.historynet.com/" description="The most comprehensive and authoritative history site on the Internet."/>
+      <outline text="Latitude" type="rss" xmlUrl="https://latitude.plos.org/feed/" htmlUrl="https://latitude.plos.org/" description="The blog for environmental science at PLOS"/>
+      <outline text="Lore" type="rss" xmlUrl="https://feeds.libsyn.com/65267/rss" htmlUrl="http://www.lorepodcast.com/about" description="Lore is a bi-weekly podcast (now also a TV show and book series) about dark historical tales. Each episode explores the mysterious creatures, tragic events, and unusual places that fill the pages of history. Because sometimes the truth is more frightening than fiction."/>
+      <outline text="MISinformation" type="rss" xmlUrl="https://mis-misinformation.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://mis-misinformation.blogspot.com/" description="The sequel to the MISinformation newsletters"/>
+      <outline text="Obsidian Iceberg" type="rss" xmlUrl="https://www.eleanorkonik.com/blog/rss/" htmlUrl="https://www.eleanorkonik.com/" description="Nerdy deep dives into ancient history, weird animal biology, notetaking and productivity."/>
+      <outline text="PLOS Biologue" type="rss" xmlUrl="https://biologue.plos.org/feed/" htmlUrl="https://biologue.plos.org/" description="The blog for PLOS Biology, PLOS Genetics and PLOS Computational Biology."/>
+      <outline text="PLOS SciComm" type="rss" xmlUrl="https://scicomm.plos.org/feed/" htmlUrl="https://scicomm.plos.org/" description="A forum for practitioners and readers of science to explore the art and science of science communication"/>
+      <outline text="Programming Historian" type="rss" xmlUrl="https://programminghistorian.org/feed.xml" htmlUrl="https://programminghistorian.org/" description="Introductory and intermediate programming lessons for humanists"/>
+      <outline text="Real World Data Science" type="rss" xmlUrl="https://realworlddatascience.net/news-and-views/index.xml" htmlUrl="https://realworlddatascience.net/news-and-views/index.html" description=""/>
+      <outline text="Speaking of Medicine and Health" type="rss" xmlUrl="https://speakingofmedicine.plos.org/feed/" htmlUrl="https://speakingofmedicine.plos.org/" description="The PLOS medical journals’ blog"/>
+      <outline text="Stephen Wolfram Writings" type="rss" xmlUrl="https://writings.stephenwolfram.com/feed/" htmlUrl="https://writings.stephenwolfram.com/" description="Just another wordpress.wolfram.com site"/>
+      <outline text="The Best of /r/AskHistorians" type="rss" xmlUrl="https://www.reddit.com/r/BestOfAskHistorians/.rss" htmlUrl="https://www.reddit.com/r/BestOfAskHistorians/" description="More to come"/>
+      <outline text="The Official PLOS Blog" type="rss" xmlUrl="https://theplosblog.plos.org/feed/" htmlUrl="https://theplosblog.plos.org/" description="The Official PLOS Blog covers PLOS initiatives that address our core principles."/>
+      <outline text="The Systems Thinker" type="rss" xmlUrl="https://thesystemsthinker.com/feed/" htmlUrl="https://thesystemsthinker.com/" description=""/>
+      <outline text="Your Say" type="rss" xmlUrl="https://yoursay.plos.org/feed/" htmlUrl="https://yoursay.plos.org/" description="Offering Diverse Perspectives on Science and Medicine"/>
+    </outline>
+    <outline text="Comics">
+      <outline text="xkcd.com" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/" description="xkcd.com: A webcomic of romance and math humor."/>
+    </outline>
+    <outline text="Journals">
+      <outline text="American Association for the Advancement of Science: Ecosystem Health and Sustainability: Table of Contents" type="rss" xmlUrl="https://spj.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ehs" htmlUrl="https://spj.science.org/loi/ehs?af=R" description="Table of Contents for Ecosystem Health and Sustainability. List of articles from both the latest and ahead of print issues."/>
+      <outline text="American Association for the Advancement of Science: Journal of Remote Sensing: Table of Contents" type="rss" xmlUrl="https://spj.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=remotesensing" htmlUrl="https://spj.science.org/loi/remotesensing?af=R" description="Table of Contents for Journal of Remote Sensing. List of articles from both the latest and ahead of print issues."/>
+      <outline text="Annals of Botany:  Editor's Choice" type="rss" xmlUrl="https://academic.oup.com/rss/site_5260/3126_56068.xml" htmlUrl="http://academic.oup.com/aob" description=""/>
+      <outline text="Botany One" type="rss" xmlUrl="https://botany.one/feed/" htmlUrl="https://botany.one/" description="Plant Science from Cell Biology to Ecosystems"/>
+      <outline text="PAGES" type="rss" xmlUrl="https://pastglobalchanges.org/rss.xml" htmlUrl="https://pastglobalchanges.org/" description=""/>
+      <outline text="Remote Sensing MDPI" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/remotesensing" htmlUrl="https://www.mdpi.com/journal/remotesensing" description="Latest open access articles published in Remote Sens. at https://www.mdpi.com/journal/remotesensing"/>
+      <outline text="SAGE Publications Ltd STM: Environment and Planning E: Nature and Space: Table of Contents" type="rss" xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=enea&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/enea?ai=2b4&amp;mi=ehikzz&amp;af=R" description="Table of Contents for Environment and Planning E: Nature and Space. List of articles from both the latest and ahead of print issues."/>
+      <outline text="tandf: International Journal of Remote Sensing: Table of Contents" type="rss" xmlUrl="https://www.tandfonline.com/feed/rss/tres20" htmlUrl="https://www.tandfonline.com/loi/tres20?af=R" description="Table of Contents for International Journal of Remote Sensing. List of articles from both the latest and ahead of print issues."/>
+    </outline>
+    <outline text="Local">
+      <outline text="Cornwall Live - frontpage" type="rss" xmlUrl="https://www.cornwalllive.com/?service=rss" htmlUrl="https://www.cornwalllive.com/" description="Rss feed from Cornwall Live"/>
+      <outline text="Plymouth Live - frontpage" type="rss" xmlUrl="https://www.plymouthherald.co.uk/?service=rss" htmlUrl="https://www.plymouthherald.co.uk/" description="Rss feed from Plymouth Live"/>
+      <outline text="University of Plymouth news feed" type="rss" xmlUrl="https://www.plymouth.ac.uk/feeds/news" htmlUrl="https://www.plymouth.ac.uk/feeds/news" description="The latest news from University of Plymouth."/>
+    </outline>
+    <outline text="Long Reads">
+      <outline text="Aeon | a world of ideas" type="rss" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co/" description="Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos — free to all."/>
+      <outline text="Eos" type="rss" xmlUrl="https://eos.org/feed" htmlUrl="https://eos.org/" description="Science News by AGU"/>
+      <outline text="Lapham’s Quarterly" type="rss" xmlUrl="https://www.laphamsquarterly.org/rss.xml" htmlUrl="https://www.laphamsquarterly.org/" description=""/>
+      <outline text="NOEMA" type="rss" xmlUrl="https://www.noemamag.com/?feed=smartformat" htmlUrl="https://www.noemamag.com/" description="Noema Magazine"/>
+      <outline text="Nautilus" type="rss" xmlUrl="https://nautil.us/feed/" htmlUrl="https://nautil.us/" description="Science Connected"/>
+      <outline text="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org/" description="Illuminating science"/>
+      <outline text="SAPIENS" type="rss" xmlUrl="https://www.sapiens.org/feed/" htmlUrl="https://www.sapiens.org/" description="Anthropology Magazine"/>
+      <outline text="TheCollector" type="rss" xmlUrl="https://www.thecollector.com/rss/" htmlUrl="https://www.thecollector.com/" description="A Top Authority On Art, Artists, Ancient History &amp; Collecting For Art Enthusiasts, Scholars &amp; Collectors."/>
+    </outline>
+    <outline text="Maker">
+      <outline text="Brick Experiment Channel" type="rss" xmlUrl="https://brickexperimentchannel.wordpress.com/feed/" htmlUrl="https://brickexperimentchannel.wordpress.com/" description=""/>
+      <outline text="Projects | Kyle Gabriel" type="rss" xmlUrl="https://kylegabriel.com/projects/feed" htmlUrl="https://kylegabriel.com/projects" description=""/>
+    </outline>
+    <outline text="News">
+      <outline text="Articles and Investigations - ProPublica" type="rss" xmlUrl="https://www.propublica.org/feeds/propublica/main" htmlUrl="https://www.propublica.org/feeds/main" description="Latest Articles and Investigations from ProPublica, an independent, non-profit newsroom that produces investigative journalism in the public interest."/>
+      <outline text="FiveThirtyEight" type="rss" xmlUrl="https://fivethirtyeight.com/all/feed" htmlUrl="https://fivethirtyeight.com/" description="FiveThirtyEight uses statistical analysis — hard numbers — to tell compelling stories about politics, sports, science, economics and culture."/>
+      <outline text="TIME" type="rss" xmlUrl="https://time.com/feed/" htmlUrl="https://time.com/" description="Current &amp; Breaking News | National &amp; World Updates"/>
+    </outline>
+    <outline text="Personal">
+      <outline text="Welcome to UK Plant Swap!" type="rss" xmlUrl="https://www.reddit.com/r/UKPlantSwap.rss" htmlUrl="https://www.reddit.com/r/UKPlantSwap" description="Subreddit for swapping plants for UK plant people. All forms of plants and plant accessories. **No sale posts please!** **If you want to thank users for swapping plants with you, please don't make separate posts, use the review thread instead.** **Note what you have and/or what you want** e.g. **[Have]** *content* **[Want]** *content* In the body you should include what you want. Please try to include any images if you are offering plants. **Please inspect your plants for any pests.**"/>
+    </outline>
+    <outline text="Podcasts">
+      <outline text="99% Invisible" type="rss" xmlUrl="http://feeds.feedburner.com/99pi" htmlUrl="https://99percentinvisible.org/" description="A Tiny Radio Show About Design with Roman Mars"/>
+    </outline>
+    <outline text="Pop Culture">
+      <outline text="Ars Technica" type="rss" xmlUrl="https://arstechnica.com/feed/" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
+      <outline text="Inverse" type="rss" xmlUrl="https://www.inverse.com/rss" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
+      <outline text="Open Culture" type="rss" xmlUrl="https://www.openculture.com/feed" htmlUrl="https://www.openculture.com/" description="The best free cultural &amp; educational media on the web"/>
+      <outline text="Slate Magazine" type="rss" xmlUrl="https://slate.com/feeds/all.rss#force_feed" htmlUrl="https://slate.com/" description="Slate RSS"/>
+      <outline text="The Daily Dot" type="rss" xmlUrl="https://www.dailydot.com/feed/" htmlUrl="https://www.dailydot.com/" description="The Daily Dot | Your Internet. Your Internet news."/>
+      <outline text="The Digital Antiquarian" type="rss" xmlUrl="https://www.filfre.net/feed/" htmlUrl="https://www.filfre.net/" description="A history of computer entertainment and digital culture by Jimmy Maher"/>
+    </outline>
+    <outline text="Pop Science">
+      <outline text="Atlas Obscura: Articles" type="rss" xmlUrl="https://www.atlasobscura.com/feeds/articles" htmlUrl="https://www.atlasobscura.com/articles" description="Your Guide to the World's Hidden Wonders"/>
+      <outline text="English – The Conversation" type="rss" xmlUrl="https://theconversation.com/articles.atom?language=en#force_feed" htmlUrl="https://theconversation.com/" description=""/>
+      <outline text="Hakai Magazine" type="rss" xmlUrl="https://hakaimagazine.com/feed/" htmlUrl="https://hakaimagazine.com/" description="Coastal science and societies"/>
+      <outline text="Hakai Magazine" type="rss" xmlUrl="https://hakaimagazine.com/feed#force_feed" htmlUrl="https://hakaimagazine.com/" description="Coastal science and societies"/>
+      <outline text="HeritageDaily – Archaeology News" type="rss" xmlUrl="https://www.heritagedaily.com/feed" htmlUrl="https://www.heritagedaily.com/" description="Latest archaeology news, archaeological discoveries from across the globe"/>
+      <outline text="Latest articles | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" htmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" description="RSS feed for with the latest articles"/>
+      <outline text="NYT &gt; Trilobites" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/trilobites/rss.xml" htmlUrl="https://www.nytimes.com/column/trilobites" description=""/>
+      <outline text="New Atlas - New Technology &amp; Science News" type="rss" xmlUrl="https://newatlas.com/index.rss" htmlUrl="https://newatlas.com/" description="Gizmag is now New Atlas. Extraordinary ideas moving the world forward."/>
+      <outline text="New Yorker: Science and Tech" type="rss" xmlUrl="https://www.newyorker.com/feed/tech" htmlUrl="https://www.newyorker.com/business" description="Analysis of the latest news in business, economics, science, and technology from The New Yorker."/>
+      <outline text="PsyPost" type="rss" xmlUrl="https://www.psypost.org/feed" htmlUrl="https://www.psypost.org/" description="Reporting the latest scientific research on behavior, cognition and society"/>
+      <outline text="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl="http://www.scientificamerican.com/" description=""/>
+      <outline text="The History Reader" type="rss" xmlUrl="https://www.thehistoryreader.com/feed/" htmlUrl="https://www.thehistoryreader.com/" description="A History Blog from St. Martin’s Press"/>
+      <outline text="Yale E360" type="rss" xmlUrl="https://e360.yale.edu/feed.xml" htmlUrl="https://e360.yale.edu/" description="Yale Environment 360 is an online magazine offering opinion, analysis, reporting, and debate on global environmental issues."/>
+    </outline>
+    <outline text="Press Releases">
+      <outline text="Y Combinator Blog" type="rss" xmlUrl="https://www.ycombinator.com/blog/rss" htmlUrl="https://www.ycombinator.com/blog/" description="Y Combinator Blog"/>
+    </outline>
+    <outline text="Recipies">
+      <outline text="Grow Forage Cook Ferment" type="rss" xmlUrl="https://www.growforagecookferment.com/feed/" htmlUrl="https://www.growforagecookferment.com/" description="Simple Living With Nature"/>
+      <outline text="The Nerdy Farm Wife" type="rss" xmlUrl="https://thenerdyfarmwife.com/feed/" htmlUrl="https://thenerdyfarmwife.com/" description="DIY Herbal Recipes, Soap Making &amp; Body Care Projects"/>
+    </outline>
+    <outline text="Research News">
+      <outline text="Archaeological Headlines - Archaeology Magazine" type="rss" xmlUrl="https://www.archaeology.org/feed" htmlUrl="http://www.archaeology.org/feed" description=""/>
+      <outline text="Archaeology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/archaeology/feed" htmlUrl="https://www.sciencenews.org" description="INDEPENDENT JOURNALISM SINCE 1921"/>
+      <outline text="Chartered Institute for Archaeologists" type="rss" xmlUrl="https://www.archaeologists.net/rss.xml" htmlUrl="https://www.archaeologists.net/" description="A professional institute for the study and care of the historic environment."/>
+      <outline text="IUCN UK Peatland Programme" type="rss" xmlUrl="https://www.iucn-uk-peatlandprogramme.org/rss.xml" htmlUrl="https://www.iucn-uk-peatlandprogramme.org/" description=""/>
+      <outline text="News – UKRI" type="rss" xmlUrl="https://www.ukri.org/news/feed/?cat=54" htmlUrl="https://www.ukri.org/" description="UK Research and Innovation"/>
+      <outline text="Retraction Watch" type="rss" xmlUrl="https://retractionwatch.com/feed/" htmlUrl="https://retractionwatch.com/" description="Tracking retractions as a window into the scientific process"/>
+      <outline text="UK Archaeology News" type="rss" xmlUrl="http://www.bajrfed.co.uk/bajrpress/feed/" htmlUrl="http://www.bajrfed.co.uk/bajrpress" description="More than just a job site - the Archaeologists Forum"/>
+    </outline>
+    <outline text="Science News">
+      <outline text="Earth News - Earth Science News, Earth Science, Climate Change" type="rss" xmlUrl="https://phys.org/rss-feed/earth-news/" htmlUrl="https://phys.org/earth-news/" description="Earth science research, climate change, and global warming.  The latest news and updates from Phys.org"/>
+      <outline text="JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org/" description="where news meets its scholarly match"/>
+      <outline text="Latest News from Science Magazine" type="rss" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="https://www.science.org/" description="Keyword search result for Alerts: News Weekly Headlines -- New results matching your keyword search query (updated daily)."/>
+      <outline text="Latest Science News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/news/" description=""/>
+      <outline text="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss#force_feed" htmlUrl="http://feeds.nature.com/nature/rss/current" description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community."/>
+      <outline text="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/breaking/" htmlUrl="https://phys.org/" description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine."/>
+      <outline text="Reddit Science" type="rss" xmlUrl="https://www.reddit.com/r/science.rss" htmlUrl="https://www.reddit.com/r/science" description="This community is a place to share and discuss new scientific research. Read about the latest advances in astronomy, biology, medicine, physics, social science, and more. Find and submit new publications and popular science coverage of current research."/>
+      <outline text="Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed" htmlUrl="https://www.sciencenews.org" description="INDEPENDENT JOURNALISM SINCE 1921"/>
+      <outline text="Science News - Mathematics, Economics, Archaeology, Fossils" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/" htmlUrl="https://phys.org/science-news/" description="The latest science news on archaeology, fossils, mathematics, and science technology from Phys.org"/>
+      <outline text="ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/feed" htmlUrl="https://www.sciencealert.com/" description="The Best in Science News and Amazing Breakthroughs"/>
+      <outline text="Universe Today" type="rss" xmlUrl="https://www.universetoday.com/feed/" htmlUrl="https://www.universetoday.com/" description="Space and astronomy news"/>
+    </outline>
+    <outline text="Technology">
+      <outline text="Feed: All Latest" type="rss" xmlUrl="https://www.wired.com/feed" htmlUrl="https://www.wired.com/" description="Channel Description"/>
+      <outline text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/" description="Links for the intellectually curious, ranked by readers."/>
+      <outline text="Lobsters" type="rss" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/" description=""/>
+      <outline text="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/" description="News for nerds, stuff that matters"/>
+      <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" description="Startup and Technology News"/>
+      <outline text="Techdirt" type="rss" xmlUrl="https://www.techdirt.com/feed/" htmlUrl="https://www.techdirt.com/" description=""/>
+    </outline>
+  </body>
+</opml>
