@@ -4,10 +4,16 @@ A small repo for sharing useful scripts I've mocked up. :)
 ---
 
 ## Table of Contents
+- [Misc](#misc)
 - [Plants](#Plants)
     - [Plant Identification Script](#Plant-Identification-Script)
 - [RSS Feeds](#RSS-feeds)
+
+
 ---
+
+## Misc
+- Just a pile of things I need to share. Don't mind the mess.
 
 ## Plants
 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
@@ -44,4 +50,4 @@ Script is modified from an example on their github: https://github.com/plantnet
 - Filter results with confidence intervals of >0.1 to get rid of the bulk of bad matches.
 
 ## RSS feeds
-Just a folder of exports from my local FreshRSS. :)
+- Just a folder of exports from my local FreshRSS to share. Lots of PopSci because I love it.
