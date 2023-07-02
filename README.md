@@ -4,6 +4,7 @@ A small repo for sharing useful scripts I've mocked up. :)
 ---
 
 ## Table of Contents
+- [Everyday Scripts](#everyday-scripts)
 - [Misc](#misc)
 - [Plants](#Plants)
     - [Plant Identification Script](#Plant-Identification-Script)
@@ -11,6 +12,9 @@ A small repo for sharing useful scripts I've mocked up. :)
 
 
 ---
+
+## Everyday Scripts
+- [bullets-to-csv.py](https://github.com/stark1tty/useful_scripts/blob/main/everyday-scripts/bullets-to-csv.py) - Script to turn bullet points from a .md to a .csv. Used for note-taking. 
 
 ## Misc
 - Just a pile of things I need to share. Don't mind the mess.
