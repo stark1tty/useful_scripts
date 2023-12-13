@@ -27,6 +27,8 @@ A small repo for sharing useful scripts I've mocked up. :)
 #### Keywords
 #image_classification #ai #plants #ecology #plantnet #python
 
+**23/12/13 Update**: Moving this to its own repo [here]((https://github.com/stark1tty/Plant-Image-Batch-ID)
+
 #### Language
 - Python (3.10)
 
